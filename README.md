@@ -3,7 +3,7 @@
 - [https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html]
 
 ## to launch jupyter-lab
-- ```jupyter lab```
+- ```jupyter lab``` [cd to the folder where your notebook is first before launching jupyter notebook]
 - [https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html]
 
 ## if you accidentally close the jupyter-lab tab (or browser)
